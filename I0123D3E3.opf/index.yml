@@ -1,0 +1,11 @@
+id: 9938a44222a7425d984f21952c7d4d24
+annotation_type: index
+revision: '00001'
+annotations:
+  3d647a2aec9045e8958c2291391c331d:
+    base: 569E.txt
+    Chapters:
+    - title: ''
+      span:
+        start: 0
+        end: 10
